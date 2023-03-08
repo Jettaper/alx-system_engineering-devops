@@ -1,2 +1,2 @@
-0 string SCHOOL School data fil
-!:mime School
+0 string SCHOOL School data file
+sudo /usr/sbin/update-mime-database /usr/share/mime
